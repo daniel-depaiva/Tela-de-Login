@@ -5,7 +5,7 @@
 - Tela criada com Html, e Css.
 - Exemplo do projeto pronto
 
-![Imagem do projeto pronto](./exemplo.png)
+![Imagem do projeto pronto](./Img/exemplo.png)
 
 
 
